@@ -1,0 +1,6 @@
+framework module Pods_MultiTool {
+  umbrella header "Pods-MultiTool-umbrella.h"
+
+  export *
+  module * { export * }
+}
